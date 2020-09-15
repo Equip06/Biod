@@ -2389,11 +2389,6 @@ a {
   padding-bottom: 5rem;
   background-image: url("../../../assets/images/mbr-1.png");
 }
-.cid-sas7YtPhYR {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
 .cid-sas7ZnLq1W {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -2406,8 +2401,8 @@ a {
   margin: 0 auto;
 }
 .cid-sas7ZWX02v {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-sas7ZWX02v blockquote {
@@ -2504,6 +2499,11 @@ a {
   align: center;
   height: 2px;
   margin: 0 auto;
+}
+.cid-sas7YtPhYR {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
 .cid-saB16QhDDG {
   padding-top: 2rem;
