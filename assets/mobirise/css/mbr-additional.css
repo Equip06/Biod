@@ -3558,6 +3558,40 @@ a {
 .cid-saUgbJSJoi img {
   width: 100%;
 }
+.cid-sblzD30Aj1 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sblzD30Aj1 .card-wrapper {
+  background: #ffffff;
+  border-radius: 4px;
+}
+@media (max-width: 767px) {
+  .cid-sblzD30Aj1 .card-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-sblzD30Aj1 .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sblzD30Aj1 .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-sblzD30Aj1 .mbr-text,
+.cid-sblzD30Aj1 .mbr-section-btn {
+  color: #366ac8;
+  text-align: left;
+}
+.cid-sblzD30Aj1 .card-title,
+.cid-sblzD30Aj1 .card-box {
+  text-align: left;
+  color: #366ac8;
+}
 .cid-saUguCZPuv {
   padding-top: 5rem;
   padding-bottom: 5rem;
