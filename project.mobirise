@@ -818,51 +818,9 @@
             }
           },
           "_name": "custom-html",
-          "_customHTML": "<div align=”center”><iframe src=”https://covid19.minsa.gob.pe/sala_situacional.asp” width=”600″ height=”250″ frameborder=”1″ scrolling=”auto”></iframe></div>",
-          "_cid": "sbWKTgzcYO",
-          "_anchor": "custom-html-6u",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": "deltapi-code-editor",
-          "_isSecondary": true,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-section": {
-              "text-align": "center",
-              "color": "#fff"
-            }
-          },
-          "_name": "custom-html",
           "_customHTML": "<center><iframe name=\"Framename\" src=\"https://coronavirus.jhu.edu/map.html\" width=\"550\" height=\"550\" frameborder=\"0\" scrolling=\"yes\" style=\"width: 100%;\"> </iframe></center>",
           "_cid": "sbWK0FUn6J",
           "_anchor": "custom-html-6t",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": "deltapi-code-editor",
-          "_isSecondary": true,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-section": {
-              "text-align": "center",
-              "color": "#fff"
-            }
-          },
-          "_name": "custom-html",
-          "_customHTML": "<center><iframe name=\"Framename\" src=\"https://covid19.minsa.gob.pe/sala_situacional.asp\" width=\"550\" height=\"550\" frameborder=\"0\" scrolling=\"yes\" style=\"width: 100%;\"> </iframe></center>",
-          "_cid": "sbWWetzegI",
-          "_anchor": "custom-html-6v",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
