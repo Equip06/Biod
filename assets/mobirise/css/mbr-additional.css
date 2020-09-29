@@ -671,48 +671,6 @@ a {
     transition: color 0.6s;
 }@isPublish: true;
 
-.cid-sarDiGsVDA {
-@fullScreen: false;
-@fullWidth: false;
-@paddingTop: 9;
-@paddingBottom: 5;
-@textWidth: 6;
-@contentAlign: "justify-content-end";
-@showTitle: true;
-@showSubitle: false;
-@showText: true;
-@showButtons: false;
-@uname__15: "file:///C:/Users/MILAGROS/Downloads/assets/images/analysis-2030261.jpg";
-@uname__16: true;
-@uname__17: #ffffff;
-@bg-value: "file:///C:/Users/MILAGROS/Downloads/assets/images/analysis-2030261.jpg";
-@bg-type: "image";
-@bg-color-value: #ffffff;
-@bg-parallax: true;
-@overlay: true;
-@overlayColor: #fafafa;
-@overlayOpacity: 0.5;
-
-& when not (@fullScreen) {
-  padding-top: (@paddingTop * 1rem);
-  padding-bottom: (@paddingBottom * 1rem);
-}
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
-}
-.mbr-section-title {
-  color: #232323;
-  text-align: right;
-}
-.mbr-text, .mbr-section-btn {
-  color: #353535;
-  text-align: right;
-}
-}
-
 .cid-saA3FGUBqm {
 @fullWidth: false;
 @paddingTop: 3;
