@@ -1377,6 +1377,16 @@ a {
 .cid-sbVG7DQ07B .card-title {
   text-align: left;
 }
+.cid-schq7DBONT {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-schq7DBONT .mbr-section-btn {
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+}
 .cid-sc267nANza {
   z-index: 1000;
   width: 100%;
