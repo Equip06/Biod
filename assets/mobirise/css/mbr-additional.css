@@ -1713,6 +1713,29 @@ a {
   display: flex;
   flex-wrap: wrap;
 }
+.cid-scFBS7K4Y3 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #bed3f9;
+}
+.cid-scFBS7K4Y3 ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 1.6rem;
+}
+.cid-scFBS7K4Y3 li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-scFBS7K4Y3 ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #4479d9;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
 .cid-sc64l1w4lI {
   padding-top: 5rem;
   padding-bottom: 5rem;
