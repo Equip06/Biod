@@ -67,7 +67,7 @@
     "gdpr": false,
     "uniqCompNum": 521,
     "versionPublish": "5.2.0",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png",
     "witsec-white-label": false,
     "cookiesAlert": false,
